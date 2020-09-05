@@ -1,0 +1,11 @@
+*.egg-info
+dist/
+build/
+.html/
+__pycache__
+.venv
+*.pyc
+*.http
+*.csv
+*.html
+.ipynb_checkpoints/
