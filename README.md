@@ -1,7 +1,7 @@
 # Sammlung und Auswertung der Daten für Bürgermeister*innen in Baden-Württemberg
 
 Diese Software sammelt die Wahlergebnisse der jeweils letzten Bürgermeister*innenwahlen 
-in allen Gemeinden und Städten in Baden-Württemberg von der Webseite des Staatsanzeigers-BW.
+in allen Gemeinden und Städten in Baden-Württemberg von der [Webseite des Staatsanzeigers für BW](https://www.staatsanzeiger.de/staatsanzeiger/wahlen/buergermeisterwahlen/).
 
 Die so gesammelten Daten sind nur so gut und vollständig wie die Daten auf dieser Webseite. 
 Im August 2020 waren 1035 von 1101 Städten und Gemeinden gelistet.
@@ -49,7 +49,7 @@ Den Link aus der Konsole im Browser öffnen.
 
 ## Funktionsweise
 
-Der Crawler holt sich aus der [Übersichtsseite]() die Liste der S&G zu denen Daten verfügbar sind 
+Der Crawler holt sich aus der [Übersichtsseite](https://www.staatsanzeiger.de/staatsanzeiger/wahlen/buergermeisterwahlen/) die Liste der Städt und Gemeinden zu denen Daten verfügbar sind 
 und besucht dann im nächsten Schritt jede Seite zu der Gemeinde. Diese ganzen HTML-Dateien werden dann lokal in `.html` 
 zwischengespeichert.
 
