@@ -4,10 +4,7 @@ Diese Software sammelt die Wahlergebnisse der jeweils letzten Bürgermeister*inn
 in allen Gemeinden und Städten in Baden-Württemberg von der [Webseite des Staatsanzeigers für BW](https://www.staatsanzeiger.de/staatsanzeiger/wahlen/buergermeisterwahlen/).
 
 Die so gesammelten Daten sind nur so gut und vollständig wie die Daten auf dieser Webseite. 
-Im August 2020 waren 1035 von 1101 Städten und Gemeinden gelistet.
-
-Wegen urheberrechtlichen Bedenken wird der Datensatz *nicht* veröffentlicht. 
-
+Im Oktober 2020 waren 1049 von 1101 Städten und Gemeinden gelistet.
 
 **Achtung:** Die Datensäuberung nach dem Download ist nicht ganz vollständig. Mehr als die Hälfte 
 der Einträge auf der Webseite haben das selbe Format und lassen sich zuverlässig parsen. Einige "Fehler" 
